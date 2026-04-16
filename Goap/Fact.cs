@@ -11,4 +11,16 @@ enum Fact
     IsSick,
     HasMoney,
     StoveWorking,
+    
+    IsTired, 
+    HasBed,
+    IsAtBed,
+    IsSleeping,
+    
+    IsClean,
+    HasShower,
+    HasToilet,
+    IsAtShower,
+    IsAtToilet
+    
 }
